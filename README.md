@@ -2,7 +2,9 @@
 
 **Репозиторий:** [MEDBEDGITHUB/eda_project_yanakurierovnikogda](https://github.com/MEDBEDGITHUB/eda_project_yanakurierovnikogda)
 
-Данный проект посвящен разведочному анализу данных (EDA) курьерской доставки. В ходе работы был проведен анализ качества данных, очистка датасета и выявлены основные проблемы с записью информации.
+**Авторы:** Рахматуллин Тагир, Смолянинов Велизар и Кужугет Алдар
+
+Данный проект посвящен разведочному анализу данных (EDA) курьерской доставки. В ходе работы был проведен анализ качества данных([паспорт качества данных](https://github.com/MEDBEDGITHUB/eda_project_yanakurierovnikogda/blob/main/%D0%9F%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.xlsx)), очистка датасета([очищенный датасет](https://github.com/MEDBEDGITHUB/eda_project_yanakurierovnikogda/blob/main/filtered_file.csv)) и выявлены основные проблемы с записью информации([наши наблюдения](https://github.com/MEDBEDGITHUB/eda_project_yanakurierovnikogda/blob/main/filtered_file.csv)).
 
 ## Короткий вывод по итогам анализа
 
